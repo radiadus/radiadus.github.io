@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a site for Alexander Maximilian's portfolio and projects.
   Took bachelor of computer science program in AI specialization and had high interest in Data Science and AI fields.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://radiadus.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://alexmaximilian.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: radiadus
 github_username:  radiadus
 
